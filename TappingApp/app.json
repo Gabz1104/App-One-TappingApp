@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "TappingApp",
+    "slug": "TappingApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/finger-tap.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-tap.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/finger-tap.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
